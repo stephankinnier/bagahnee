@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laisaithoo.shuo-yang.com/sitemap.xml
